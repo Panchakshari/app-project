@@ -1,0 +1,2 @@
+This is file A modified  - master branch changes
+This is file A modified - changes from feature branch
